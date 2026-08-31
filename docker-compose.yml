@@ -1,8 +1,31 @@
 # docker-compose.yml
 # Services will be added as they are built:
-#   Task 2  — db (PostgreSQL)
+#   Task 2  — db (PostgreSQL)           ✓
 #   Task 4  — scraper (jobs profile)
 #   Task 10 — api (FastAPI)
 #   Task 13 — web (Next.js static)
 
-services: {}
+services:
+  db:
+    image: postgres:17
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      # Exposed on the host so psql, Alembic (Task 8) and the loader (Task 9)
+      # can reach the database from outside Compose.
+      - "5432:5432"
+    volumes:
+      # Named volume, NOT a bind mount: `docker compose down` must leave the
+      # data intact. Only `docker compose down -v` destroys it.
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      # Task 10's api service depends on this reporting healthy, so that the
+      # API never starts against a Postgres that is still initialising.
+      test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+volumes:
+  pgdata:
