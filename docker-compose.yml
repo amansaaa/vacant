@@ -1,7 +1,7 @@
 # docker-compose.yml
 # Services will be added as they are built:
 #   Task 2  — db (PostgreSQL)           ✓
-#   Task 4  — scraper (jobs profile)
+#   Task 4  — scraper (jobs profile)    ✓
 #   Task 10 — api (FastAPI)
 #   Task 13 — web (Next.js static)
 
@@ -26,6 +26,19 @@ services:
       timeout: 5s
       retries: 10
       start_period: 10s
+
+  scraper:
+    build:
+      context: ./scraper
+    # Not part of `docker compose up` — a one-shot job, run on demand or
+    # from cron via `docker compose run --rm scraper [flags]`.
+    profiles: ["jobs"]
+    volumes:
+      # Bind mount, not a named volume: raw JSON must land on the host at
+      # scraper/raw/ (gitignored) so it's inspectable, and so resumability
+      # (skip divisions already written) survives across separate
+      # `docker compose run` invocations, not just within one container.
+      - ./scraper/raw:/app/raw
 
 volumes:
   pgdata:
