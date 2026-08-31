@@ -1,0 +1,8 @@
+# docker-compose.yml
+# Services will be added as they are built:
+#   Task 2  — db (PostgreSQL)
+#   Task 4  — scraper (jobs profile)
+#   Task 10 — api (FastAPI)
+#   Task 13 — web (Next.js static)
+
+services: {}
