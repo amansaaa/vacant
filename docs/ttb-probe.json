@@ -1,0 +1,597 @@
+{
+  "pages_sampled_per_division": 8,
+  "sessions": [
+    "20269",
+    "20271",
+    "20269-20271"
+  ],
+  "per_division": {
+    "APSC": {
+      "name": "Applied Science and Engineering",
+      "total_courses_reported": 507,
+      "courses_sampled": 160,
+      "sections_sampled": 712,
+      "meetings_sampled": 968,
+      "meetings_with_building_code": 968,
+      "meetings_with_room_number": 0,
+      "room_coverage_pct": 0.0,
+      "enrolment_coverage_pct": 100.0
+    },
+    "ARCLA": {
+      "name": "Architecture, Landscape, and Design (Daniels)",
+      "total_courses_reported": 120,
+      "courses_sampled": 120,
+      "sections_sampled": 346,
+      "meetings_sampled": 363,
+      "meetings_with_building_code": 360,
+      "meetings_with_room_number": 0,
+      "room_coverage_pct": 0.0,
+      "enrolment_coverage_pct": 100.0
+    },
+    "ARTSC": {
+      "name": "Arts and Science",
+      "total_courses_reported": 3758,
+      "courses_sampled": 160,
+      "sections_sampled": 345,
+      "meetings_sampled": 417,
+      "meetings_with_building_code": 357,
+      "meetings_with_room_number": 0,
+      "room_coverage_pct": 0.0,
+      "enrolment_coverage_pct": 100.0
+    },
+    "FIS": {
+      "name": "Information",
+      "total_courses_reported": 21,
+      "courses_sampled": 21,
+      "sections_sampled": 53,
+      "meetings_sampled": 52,
+      "meetings_with_building_code": 26,
+      "meetings_with_room_number": 0,
+      "room_coverage_pct": 0.0,
+      "enrolment_coverage_pct": 100.0
+    },
+    "FPEH": {
+      "name": "Kinesiology and Physical Education",
+      "total_courses_reported": 93,
+      "courses_sampled": 93,
+      "sections_sampled": 349,
+      "meetings_sampled": 378,
+      "meetings_with_building_code": 338,
+      "meetings_with_room_number": 0,
+      "room_coverage_pct": 0.0,
+      "enrolment_coverage_pct": 100.0
+    },
+    "MUSIC": {
+      "name": "Music",
+      "total_courses_reported": 348,
+      "courses_sampled": 160,
+      "sections_sampled": 385,
+      "meetings_sampled": 251,
+      "meetings_with_building_code": 249,
+      "meetings_with_room_number": 0,
+      "room_coverage_pct": 0.0,
+      "enrolment_coverage_pct": 100.0
+    }
+  },
+  "overall": {
+    "courses_sampled": 714,
+    "sections_sampled": 2190,
+    "cancelled_sections": 12,
+    "meetings_sampled": 2429,
+    "meetings_with_building_code": 2298,
+    "meetings_missing_building_code": 131,
+    "meetings_with_room_number": 0,
+    "room_coverage_pct": 0.0,
+    "start_end_millis_not_on_minute_boundary": 0,
+    "day_values": {
+      "1": 447,
+      "2": 440,
+      "3": 581,
+      "4": 576,
+      "5": 385
+    },
+    "delivery_modes": {
+      "INPER": 2522,
+      "SYNC": 55,
+      "ASYNC": 9,
+      "HYBR": 1
+    },
+    "repetition_values": {
+      "WEEKLY": 2346,
+      "BI_WEEKLY": 83
+    },
+    "session_codes_on_meetings": {
+      "20269": 1267,
+      "20271": 1162
+    },
+    "campus_values": {
+      "St. George": 714
+    },
+    "building_code_to_map_markers": {
+      "AB": [
+        "494489"
+      ],
+      "AH": [
+        "494578"
+      ],
+      "AP": [
+        "494472"
+      ],
+      "BA": [
+        "494470"
+      ],
+      "BF": [
+        "494497"
+      ],
+      "BN": [
+        "494513"
+      ],
+      "BR": [
+        "494595"
+      ],
+      "BT": [
+        "494605"
+      ],
+      "CR": [
+        "494580"
+      ],
+      "DA": [
+        "494471"
+      ],
+      "EJ": [
+        "494549"
+      ],
+      "EM": [
+        "494601"
+      ],
+      "ES": [
+        "494499"
+      ],
+      "FE": [
+        "494550"
+      ],
+      "GB": [
+        "494473"
+      ],
+      "HA": [
+        "494475"
+      ],
+      "HS": [
+        "494459"
+      ],
+      "JP": [
+        "494525"
+      ],
+      "KP": [
+        "494488"
+      ],
+      "LA": [
+        "494575"
+      ],
+      "LM": [
+        "494502"
+      ],
+      "MB": [
+        "494466"
+      ],
+      "MC": [
+        "494474"
+      ],
+      "MP": [
+        "494490"
+      ],
+      "MS": [
+        "494491"
+      ],
+      "MY": [
+        "494495"
+      ],
+      "NB": [
+        "494485"
+      ],
+      "NF": [
+        "494600"
+      ],
+      "NL": [
+        "494486"
+      ],
+      "OI": [
+        "494563"
+      ],
+      "PB": [
+        "494476"
+      ],
+      "RL": [
+        "494531"
+      ],
+      "RS": [
+        "494478"
+      ],
+      "RW": [
+        "494515"
+      ],
+      "SB": [
+        "494480"
+      ],
+      "SF": [
+        "494481"
+      ],
+      "SK": [
+        "494564"
+      ],
+      "SS": [
+        "494510"
+      ],
+      "SU": [
+        "494455"
+      ],
+      "TF": [
+        "494581"
+      ],
+      "UC": [
+        "494517"
+      ],
+      "VC": [
+        "494602"
+      ],
+      "WB": [
+        "494460"
+      ],
+      "WE": [
+        "494509"
+      ],
+      "WI": [
+        "494503"
+      ],
+      "WO": [
+        "494558"
+      ],
+      "WS": [
+        "494512"
+      ],
+      "WW": [
+        "494547"
+      ]
+    },
+    "sample_room_strings": [],
+    "sections_with_enrolment": 2190,
+    "enrolment_coverage_pct": 100.0
+  },
+  "building_activity": {
+    "note": "Sampled, not exhaustive: peak_concurrent is a lower bound and will rise with a full scrape. Fall session (20269) meetings only.",
+    "meetings_considered": 1188,
+    "buildings_seen": 47,
+    "sample_minute": "Monday 10:30",
+    "snapshot": [
+      {
+        "building_code": "JP",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 8,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "MS",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 7,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "BN",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 6,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "FE",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 5,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "LM",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 4,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "WS",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 4,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "HA",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 3,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "UC",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 3,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "CR",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 2,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "EM",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 2,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "NB",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 2,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "RS",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 2,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "SK",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 2,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "WE",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 2,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "AH",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "BF",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "BR",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "HS",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "KP",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "LA",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "NF",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "NL",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "ON",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "PB",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "RL",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "VC",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "WI",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "WO",
+        "classes_now": 0,
+        "people_now": 0,
+        "peak_concurrent": 1,
+        "load_pct": 0.0
+      },
+      {
+        "building_code": "EJ",
+        "classes_now": 2,
+        "people_now": 40,
+        "peak_concurrent": 9,
+        "load_pct": 22.2
+      },
+      {
+        "building_code": "WB",
+        "classes_now": 3,
+        "people_now": 112,
+        "peak_concurrent": 12,
+        "load_pct": 25.0
+      },
+      {
+        "building_code": "AP",
+        "classes_now": 1,
+        "people_now": 21,
+        "peak_concurrent": 4,
+        "load_pct": 25.0
+      },
+      {
+        "building_code": "OI",
+        "classes_now": 1,
+        "people_now": 30,
+        "peak_concurrent": 4,
+        "load_pct": 25.0
+      },
+      {
+        "building_code": "SS",
+        "classes_now": 1,
+        "people_now": 149,
+        "peak_concurrent": 4,
+        "load_pct": 25.0
+      },
+      {
+        "building_code": "GB",
+        "classes_now": 2,
+        "people_now": 131,
+        "peak_concurrent": 7,
+        "load_pct": 28.6
+      },
+      {
+        "building_code": "BA",
+        "classes_now": 5,
+        "people_now": 233,
+        "peak_concurrent": 13,
+        "load_pct": 38.5
+      },
+      {
+        "building_code": "MY",
+        "classes_now": 4,
+        "people_now": 163,
+        "peak_concurrent": 10,
+        "load_pct": 40.0
+      },
+      {
+        "building_code": "MC",
+        "classes_now": 2,
+        "people_now": 271,
+        "peak_concurrent": 5,
+        "load_pct": 40.0
+      },
+      {
+        "building_code": "MB",
+        "classes_now": 2,
+        "people_now": 53,
+        "peak_concurrent": 4,
+        "load_pct": 50.0
+      },
+      {
+        "building_code": "ES",
+        "classes_now": 1,
+        "people_now": 206,
+        "peak_concurrent": 2,
+        "load_pct": 50.0
+      },
+      {
+        "building_code": "MP",
+        "classes_now": 1,
+        "people_now": 42,
+        "peak_concurrent": 2,
+        "load_pct": 50.0
+      },
+      {
+        "building_code": "DA",
+        "classes_now": 4,
+        "people_now": 74,
+        "peak_concurrent": 6,
+        "load_pct": 66.7
+      },
+      {
+        "building_code": "SF",
+        "classes_now": 2,
+        "people_now": 196,
+        "peak_concurrent": 3,
+        "load_pct": 66.7
+      },
+      {
+        "building_code": "SB",
+        "classes_now": 3,
+        "people_now": 54,
+        "peak_concurrent": 3,
+        "load_pct": 100.0
+      },
+      {
+        "building_code": "SU",
+        "classes_now": 2,
+        "people_now": 49,
+        "peak_concurrent": 2,
+        "load_pct": 100.0
+      },
+      {
+        "building_code": "WW",
+        "classes_now": 2,
+        "people_now": 43,
+        "peak_concurrent": 2,
+        "load_pct": 100.0
+      },
+      {
+        "building_code": "AB",
+        "classes_now": 1,
+        "people_now": 35,
+        "peak_concurrent": 1,
+        "load_pct": 100.0
+      },
+      {
+        "building_code": "BT",
+        "classes_now": 1,
+        "people_now": 326,
+        "peak_concurrent": 1,
+        "load_pct": 100.0
+      }
+    ]
+  }
+}
