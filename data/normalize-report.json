@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-03",
+  "total_input_meetings": 16248,
+  "kept": 14391,
+  "duplicate_meetings": 544,
+  "dropped": {
+    "online_or_async": 337,
+    "not_st_george": 0,
+    "cancelled_section": 16,
+    "unknown_building_code": 960,
+    "unparseable_time": 0
+  },
+  "samples": {
+    "online_or_async": [
+      {
+        "course_code": "APS160H1",
+        "section": "TUT0101",
+        "session": "20269"
+      },
+      {
+        "course_code": "GLB401Y1",
+        "section": "TUT0101",
+        "session": "20269"
+      },
+      {
+        "course_code": "GLB401Y1",
+        "section": "TUT0101",
+        "session": "20271"
+      },
+      {
+        "course_code": "GLB401Y1",
+        "section": "LEC0101",
+        "session": "20269"
+      },
+      {
+        "course_code": "GLB401Y1",
+        "section": "LEC0101",
+        "session": "20271"
+      }
+    ],
+    "not_st_george": [],
+    "cancelled_section": [
+      {
+        "course_code": "ARC200H1",
+        "section": "PRA0107"
+      },
+      {
+        "course_code": "ARC200H1",
+        "section": "PRA0111"
+      },
+      {
+        "course_code": "ARC465H1",
+        "section": "LEC0102"
+      },
+      {
+        "course_code": "ARC480H1",
+        "section": "LEC0101"
+      },
+      {
+        "course_code": "JAV200H1",
+        "section": "TUT0114"
+      }
+    ],
+    "unknown_building_code": [
+      {
+        "course_code": "AER507H1",
+        "section": "LEC0101",
+        "buildingCode": "AB",
+        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/494489"
+      },
+      {
+        "course_code": "ESC101H1",
+        "section": "PRA0101",
+        "buildingCode": "",
+        "buildingUrl": null
+      },
+      {
+        "course_code": "ESC101H1",
+        "section": "PRA0103",
+        "buildingCode": "",
+        "buildingUrl": null
+      },
+      {
+        "course_code": "ESC101H1",
+        "section": "PRA0102",
+        "buildingCode": "",
+        "buildingUrl": null
+      },
+      {
+        "course_code": "ESC101H1",
+        "section": "PRA0104",
+        "buildingCode": "",
+        "buildingUrl": null
+      }
+    ],
+    "unparseable_time": []
+  }
+}
