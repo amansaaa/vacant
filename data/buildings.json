@@ -1,1 +1,2396 @@
-[]
+[
+  {
+    "code": "AH",
+    "map_id": 494578,
+    "name": "Muzzo Family Alumni Hall",
+    "lat": 43.6647637,
+    "lng": -79.3901376,
+    "address": "121 St. Joseph Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "AP",
+    "map_id": 494472,
+    "name": "Anthropology Building",
+    "lat": 43.6598666,
+    "lng": -79.3984688,
+    "address": "19 Ursula Franklin Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "BA",
+    "map_id": 494470,
+    "name": "Bahen Centre for Information Technology",
+    "lat": 43.6597085,
+    "lng": -79.3974539,
+    "address": "40 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "BN",
+    "map_id": 494513,
+    "name": "Clara Benson Building",
+    "lat": 43.6629833,
+    "lng": -79.4002584,
+    "address": "320 Huron Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "BR",
+    "map_id": 494595,
+    "name": "Brennan Hall",
+    "lat": 43.6663937,
+    "lng": -79.3897654,
+    "address": "81A St. Mary Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "BT",
+    "map_id": 494605,
+    "name": "Isabel Bader Theatre",
+    "lat": 43.6672514,
+    "lng": -79.3923649,
+    "address": "93 Charles Street West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "CH",
+    "map_id": 494494,
+    "name": "Convocation Hall",
+    "lat": 43.660776,
+    "lng": -79.3954478,
+    "address": "31 King's College Circle",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "CR",
+    "map_id": 494580,
+    "name": "Carr Hall",
+    "lat": 43.6652328,
+    "lng": -79.3904148,
+    "address": "100 St. Joseph Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "DA",
+    "map_id": 494471,
+    "name": "Daniels Building",
+    "lat": 43.6596491,
+    "lng": -79.4007115,
+    "address": "1 Spadina Crescent",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "EJ",
+    "map_id": 494549,
+    "name": "Edward Johnson Building",
+    "lat": 43.6666122,
+    "lng": -79.3945874,
+    "address": "80 Queen's Park",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "EM",
+    "map_id": 494601,
+    "name": "Emmanuel College",
+    "lat": 43.6667142,
+    "lng": -79.3926504,
+    "address": "75 Queen's Park",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "EP",
+    "map_id": 494462,
+    "name": "Stewart Building",
+    "lat": 43.6591984,
+    "lng": -79.3919911,
+    "address": null,
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "ES",
+    "map_id": 494499,
+    "name": "Earth Sciences Centre",
+    "lat": 43.6607775,
+    "lng": -79.3996512,
+    "address": null,
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "FE",
+    "map_id": 494550,
+    "name": "University of Toronto Schools",
+    "lat": 43.6665211,
+    "lng": -79.402276,
+    "address": "371 Bloor Street West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "GB",
+    "map_id": 494473,
+    "name": "Galbraith Building",
+    "lat": 43.6599593,
+    "lng": -79.3959662,
+    "address": "35 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "GI",
+    "map_id": 494577,
+    "name": "George Ignatieff Theatre",
+    "lat": 43.6658417,
+    "lng": -79.3971179,
+    "address": null,
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "GM",
+    "map_id": 494530,
+    "name": "Luella Massey Studio Theatre",
+    "lat": 43.6643593,
+    "lng": -79.4011292,
+    "address": "4 Glen Morris Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "HA",
+    "map_id": 494475,
+    "name": "Haultain Building",
+    "lat": 43.6599224,
+    "lng": -79.3936379,
+    "address": "170 College Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "HI",
+    "map_id": 494576,
+    "name": "St. Hilda's College",
+    "lat": 43.665726,
+    "lng": -79.3979508,
+    "address": "44 Devonshire Place",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "HS",
+    "map_id": 494459,
+    "name": "Health Sciences Building",
+    "lat": 43.6590815,
+    "lng": -79.3927635,
+    "address": "155 College Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "IN",
+    "map_id": 494541,
+    "name": "Innis College",
+    "lat": 43.6656204,
+    "lng": -79.399593,
+    "address": "2 Sussex Avenue",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "JH",
+    "map_id": 494560,
+    "name": "Jackman Humanities Building",
+    "lat": 43.6677314,
+    "lng": -79.4003457,
+    "address": "170 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "JP",
+    "map_id": 494525,
+    "name": "90 Wellesley Street West",
+    "lat": 43.664231,
+    "lng": -79.3893241,
+    "address": "90 Wellesley Street West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "KP",
+    "map_id": 494488,
+    "name": "Koffler House",
+    "lat": 43.6605786,
+    "lng": -79.4006308,
+    "address": "569 Spadina Avenue",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "LA",
+    "map_id": 494575,
+    "name": "Gerald Larkin Building",
+    "lat": 43.6656724,
+    "lng": -79.3969449,
+    "address": "15 Devonshire Place",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "LI",
+    "map_id": 494613,
+    "name": "Lillian Massey Building",
+    "lat": 43.6683959,
+    "lng": -79.3935362,
+    "address": "125 Queen's Park",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "LM",
+    "map_id": 494502,
+    "name": "Lash Miller Chemical Laboratories",
+    "lat": 43.6615127,
+    "lng": -79.3982727,
+    "address": "80 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "MB",
+    "map_id": 494466,
+    "name": "Lassonde Mining Building",
+    "lat": 43.6595254,
+    "lng": -79.3934676,
+    "address": "170 College Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "MC",
+    "map_id": 494474,
+    "name": "Mechanical Engineering Building",
+    "lat": 43.6600562,
+    "lng": -79.3938368,
+    "address": "5 King's College Road",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "MK",
+    "map_id": 494559,
+    "name": "Munk School of Global Affairs (Observatory site)",
+    "lat": 43.6631663,
+    "lng": -79.3946165,
+    "address": "12 Hart House Circle",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "MP",
+    "map_id": 494490,
+    "name": "McLennan Physical Laboratories",
+    "lat": 43.6608184,
+    "lng": -79.398389,
+    "address": "255 Huron Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "MS",
+    "map_id": 494491,
+    "name": "Medical Sciences Building",
+    "lat": 43.6607973,
+    "lng": -79.3933729,
+    "address": "1 King's College Circle",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "MY",
+    "map_id": 494495,
+    "name": "Myhal Centre for Engineering Innovation and Entrepreneurship",
+    "lat": 43.6607638,
+    "lng": -79.3965358,
+    "address": "55 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "NB",
+    "map_id": 494485,
+    "name": "North Borden Building",
+    "lat": 43.6604056,
+    "lng": -79.4001115,
+    "address": "563 Spadina Crescent",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "NF",
+    "map_id": 494600,
+    "name": "Northrop Frye Hall",
+    "lat": 43.6664141,
+    "lng": -79.3921389,
+    "address": "73 Queen's Park Crescent East",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "NL",
+    "map_id": 494486,
+    "name": "C. David Naylor Building",
+    "lat": 43.6603578,
+    "lng": -79.3918974,
+    "address": "6 Queen's Park Crescent West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "OH",
+    "map_id": 494594,
+    "name": "Odette Hall",
+    "lat": 43.6663535,
+    "lng": -79.3886433,
+    "address": null,
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "OI",
+    "map_id": 494563,
+    "name": "OISE (Ontario Institute for Studies in Education)",
+    "lat": 43.6683,
+    "lng": -79.3985,
+    "address": "252 Bloor Street West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "PB",
+    "map_id": 494476,
+    "name": "Leslie L. Dan Pharmacy Building",
+    "lat": 43.6599499,
+    "lng": -79.3917767,
+    "address": "144 College Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "PR",
+    "map_id": 491354,
+    "name": "E. J. Pratt Library",
+    "lat": 43.6663202,
+    "lng": -79.3912921,
+    "address": "71 Queen's Park Crescent East",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "PT",
+    "map_id": 494469,
+    "name": "D. L. Pratt Building",
+    "lat": 43.6596106,
+    "lng": -79.3948157,
+    "address": "6 King's College Road",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "RL",
+    "map_id": 494531,
+    "name": "Robarts Library",
+    "lat": 43.6643897,
+    "lng": -79.3995759,
+    "address": "130 St George Street",
+    "hours": {
+      "mon": {
+        "open": 510,
+        "close": 1380
+      },
+      "tue": {
+        "open": 510,
+        "close": 1380
+      },
+      "wed": {
+        "open": 510,
+        "close": 1380
+      },
+      "thu": {
+        "open": 510,
+        "close": 1380
+      },
+      "fri": {
+        "open": 510,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 600,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "RS",
+    "map_id": 494478,
+    "name": "Rosebrugh Building",
+    "lat": 43.6600629,
+    "lng": -79.3932695,
+    "address": "164 College Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "RT",
+    "map_id": 494538,
+    "name": "Rotman School of Management",
+    "lat": 43.6653599,
+    "lng": -79.3984429,
+    "address": "105 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "RW",
+    "map_id": 494515,
+    "name": "Ramsay Wright Building",
+    "lat": 43.6632684,
+    "lng": -79.39906,
+    "address": "25 Harbord Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "SB",
+    "map_id": 494480,
+    "name": "South Borden Building",
+    "lat": 43.6600989,
+    "lng": -79.3997906,
+    "address": "487 Spadina Crescent",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "SD",
+    "map_id": 494511,
+    "name": "Sir Daniel Wilson Residence",
+    "lat": 43.662544,
+    "lng": -79.3971848,
+    "address": "73-75 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "SF",
+    "map_id": 494481,
+    "name": "Sandford Fleming Building",
+    "lat": 43.6601523,
+    "lng": -79.3952176,
+    "address": "10 King's College Road",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "SK",
+    "map_id": 494564,
+    "name": "Factor-Inwentash Faculty of Social Work",
+    "lat": 43.6682995,
+    "lng": -79.3977668,
+    "address": "246 Bloor Street West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "SM",
+    "map_id": 494508,
+    "name": "Gerstein Science Information Centre",
+    "lat": 43.662088,
+    "lng": -79.3936403,
+    "address": "9 King's College Circle",
+    "hours": {
+      "mon": {
+        "open": 510,
+        "close": 1380
+      },
+      "tue": {
+        "open": 510,
+        "close": 1380
+      },
+      "wed": {
+        "open": 510,
+        "close": 1380
+      },
+      "thu": {
+        "open": 510,
+        "close": 1380
+      },
+      "fri": {
+        "open": 510,
+        "close": 1320
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 600,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "SS",
+    "map_id": 494510,
+    "name": "Sidney Smith Hall",
+    "lat": 43.6624674,
+    "lng": -79.3988052,
+    "address": "100 St George Street",
+    "hours": {
+      "mon": {
+        "open": 600,
+        "close": 1110
+      },
+      "tue": {
+        "open": 600,
+        "close": 1110
+      },
+      "wed": {
+        "open": 600,
+        "close": 1110
+      },
+      "thu": {
+        "open": 600,
+        "close": 1110
+      },
+      "fri": {
+        "open": 600,
+        "close": 1110
+      },
+      "sat": {
+        "open": 0,
+        "close": 0
+      },
+      "sun": {
+        "open": 0,
+        "close": 0
+      }
+    }
+  },
+  {
+    "code": "SU",
+    "map_id": 494455,
+    "name": "40 Sussex Avenue",
+    "lat": 43.6650438,
+    "lng": -79.4018606,
+    "address": "40 Sussex Avenue",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "TC",
+    "map_id": 494574,
+    "name": "Trinity College",
+    "lat": 43.6653146,
+    "lng": -79.3957278,
+    "address": "6 Hoskin Avenue",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "TF",
+    "map_id": 494581,
+    "name": "Teefy Hall",
+    "lat": 43.6653867,
+    "lng": -79.3908241,
+    "address": "59 Queen's Park Crescent East",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "UC",
+    "map_id": 494517,
+    "name": "University College",
+    "lat": 43.6628344,
+    "lng": -79.3958563,
+    "address": "15 King's College Circle",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "UP",
+    "map_id": 516384,
+    "name": "University College Union",
+    "lat": 43.6633987,
+    "lng": -79.397575,
+    "address": "79 St George Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "VC",
+    "map_id": 494602,
+    "name": "Victoria College",
+    "lat": 43.6669263,
+    "lng": -79.3919559,
+    "address": "91 Charles Street West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "WB",
+    "map_id": 494460,
+    "name": "Wallberg Building",
+    "lat": 43.659188,
+    "lng": -79.3952423,
+    "address": "184-200 College Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "WE",
+    "map_id": 494509,
+    "name": "Wetmore Hall",
+    "lat": 43.6621286,
+    "lng": -79.4004026,
+    "address": "300 Huron Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "WI",
+    "map_id": 494503,
+    "name": "Wilson Hall",
+    "lat": 43.6618546,
+    "lng": -79.4007161,
+    "address": "40 Willcocks Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "WO",
+    "map_id": 494558,
+    "name": "Woodsworth College Residence",
+    "lat": 43.6672835,
+    "lng": -79.3991697,
+    "address": "321 Bloor Street West",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "WS",
+    "map_id": 494512,
+    "name": "Warren Stevens Building",
+    "lat": 43.6627537,
+    "lng": -79.4010325,
+    "address": "55 Harbord Street",
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  },
+  {
+    "code": "WW",
+    "map_id": 494547,
+    "name": "Woodsworth College",
+    "lat": 43.6668706,
+    "lng": -79.3990601,
+    "address": null,
+    "hours": {
+      "mon": {
+        "open": 480,
+        "close": 1380
+      },
+      "tue": {
+        "open": 480,
+        "close": 1380
+      },
+      "wed": {
+        "open": 480,
+        "close": 1380
+      },
+      "thu": {
+        "open": 480,
+        "close": 1380
+      },
+      "fri": {
+        "open": 480,
+        "close": 1380
+      },
+      "sat": {
+        "open": 540,
+        "close": 1320
+      },
+      "sun": {
+        "open": 540,
+        "close": 1320
+      }
+    }
+  }
+]
